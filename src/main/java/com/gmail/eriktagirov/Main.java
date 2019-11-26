@@ -9,7 +9,7 @@ public class Main {
     static final String DB_CONNECTION =
             "jdbc:mysql://localhost:3306/appartment?serverTimezone=Europe/Kiev";
     static final String DB_USER = "root";
-    static final String DB_PASSWORD = "password";
+    static final String DB_PASSWORD = "18091986Erik";
 
     public static void main(String[] args) throws SQLException {
         Scanner sc = new Scanner(System.in);
